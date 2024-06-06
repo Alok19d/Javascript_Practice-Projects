@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    touch-action: none;
+}
+body{
+    position: relative;
+}
+#btn{
+    position: absolute;
+    left:50%;
+}
